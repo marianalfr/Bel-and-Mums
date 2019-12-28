@@ -18,7 +18,7 @@ She loved this resposive draft with a home-page slider, but in the end she thoug
 
 ### MIT License.
 
-Copyright (c) 2019 Skylabers
+Copyright (c) 2019 Mariana Lerma.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
